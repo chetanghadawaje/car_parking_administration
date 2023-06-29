@@ -1,5 +1,7 @@
-Scenario
+Scenario 
+
 You are part of a team at Data Axle that is tasked with building a system for Car Parking administration.
+
 
 
 Task
@@ -7,7 +9,8 @@ Task
 Your task is to implement a small part of business logic along with associated test cases that verify that the logic works according to the use cases below
 
 
-Use Cases
+
+Use Cases 
 
 The two following use cases should be implemented.
 
